@@ -1,0 +1,4 @@
+File > Project Settings > Artifacts > Jar > From modules with dependencies
+Inside src, Build > Build > Build Artifacts > select jar > Build
+
+File > Project Settings > Libraries > + > created jar for client module
